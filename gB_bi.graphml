@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Big Sean" />
+    <node id="J. Cole" />
+    <node id="Meek Mill" />
+    <node id="Future" />
+    <node id="PARTYNEXTDOOR" />
+    <node id="Tory Lanez" />
+    <node id="Young Thug" />
+    <node id="Rick Ross" />
+    <node id="21 Savage" />
+    <node id="Bryson Tiller" />
+    <node id="Gunna" />
+    <node id="2 Chainz" />
+    <node id="A$AP Rocky" />
+    <node id="Wale" />
+    <node id="NAV" />
+    <node id="Migos" />
+    <node id="French Montana" />
+    <node id="Tyga" />
+    <node id="ScHoolboy Q" />
+    <node id="Young Money" />
+    <node id="Jay Rock" />
+    <node id="Waka Flocka Flame" />
+    <node id="Ace Hood" />
+    <node id="VIC MENSA" />
+    <node id="DJ Drama" />
+    <node id="Ty Dolla $ign" />
+    <node id="Kid Ink" />
+    <node id="YG" />
+    <node id="Juicy J" />
+    <node id="Yo Gotti" />
+    <node id="A$AP Ferg" />
+    <node id="Travis Porter" />
+    <node id="Pusha T" />
+    <node id="Kendrick Lamar" />
+    <node id="Nipsey Hussle" />
+    <node id="Freddie Gibbs" />
+    <node id="Joey Bada$$" />
+    <node id="Chance the Rapper" />
+    <node id="Isaiah Rashad" />
+    <node id="Lupe Fiasco" />
+    <node id="Ab-Soul" />
+    <node id="Birdman" />
+    <node id="Fabolous" />
+    <node id="Plies" />
+    <node id="Soulja Boy" />
+    <node id="Jim Jones" />
+    <node id="Jadakiss" />
+    <node id="Chief Keef" />
+    <node id="Lil Durk" />
+    <node id="Young Dolph" />
+    <node id="Kodak Black" />
+    <node id="Quavo" />
+    <node id="Young Nudy" />
+    <node id="Majid Jordan" />
+    <node id="Roy Woods" />
+    <node id="6LACK" />
+    <node id="Jeremih" />
+    <node id="PnB Rock" />
+    <node id="Brent Faiyaz" />
+    <node id="TWENTY88" />
+    <node id="Che Ecru" />
+    <node id="Yo Trane" />
+    <node id="Ryan Trey" />
+    <node id="Miguel" />
+    <node id="dvsn" />
+    <node id="Jhené Aiko" />
+    <node id="H.E.R." />
+    <node id="Jacquees" />
+    <node id="August Alsina" />
+    <node id="DeJ Loaf" />
+    <node id="Trey Songz" />
+    <node id="A$AP Mob" />
+    <node id="Don Toliver" />
+    <node id="Famous Dex" />
+    <node id="Huncho Jack" />
+    <node id="Lil Keed" />
+    <node id="Lil Yachty" />
+    <node id="SahBabii" />
+    <node id="Rae Sremmurd" />
+    <node id="UnoTheActivist" />
+    <node id="Pi’erre Bourne" />
+    <node id="Desiigner" />
+    <node id="88GLAM" />
+    <node id="Juelz Santana" />
+    <node id="Bun B" />
+    <node id="Young Buck" />
+    <node id="The Diplomats" />
+    <node id="Beanie Sigel" />
+    <node id="Slim Thug" />
+    <node id="Curren$y" />
+    <node id="Lloyd Banks" />
+    <node id="Young Dro" />
+    <node id="Sheck Wes" />
+    <node id="Lil Baby" />
+    <node id="Trippie Redd" />
+    <node id="Metro Boomin" />
+    <node id="Lil Uzi Vert" />
+    <node id="Playboi Carti" />
+    <node id="Flipp Dinero" />
+    <node id="DaniLeigh" />
+    <node id="Nbdy" />
+    <node id="Queen Naija" />
+    <node id="Ella Mai" />
+    <node id="D. Savage" />
+    <node id="Roddy Ricch" />
+    <node id="Yung Bans" />
+    <node id="03 Greedo" />
+    <node id="Big K.R.I.T." />
+    <node id="Rich Homie Quan" />
+    <node id="Young Scooter" />
+    <node id="Mike WiLL Made-It" />
+    <node id="K CAMP" />
+    <node id="O.T. Genasis" />
+    <node id="Earl Sweatshirt" />
+    <node id="Vince Staples" />
+    <node id="Flatbush Zombies" />
+    <node id="Danny Brown" />
+    <node id="Domo Genesis" />
+    <node id="Boldy James" />
+    <node id="Denzel Curry" />
+    <node id="Dom Kennedy" />
+    <node id="The-Dream" />
+    <node id="Lloyd" />
+    <node id="BJ The Chicago Kid" />
+    <node id="Sevyn Streeter" />
+    <node id="Pretty Ricky" />
+    <node id="Teyana Taylor" />
+    <node id="Eric Bellinger" />
+    <node id="YBN Nahmir" />
+    <node id="Quality Control" />
+    <node id="Rich The Kid" />
+    <node id="Yung Pinch" />
+    <node id="Tee Grizzley" />
+    <node id="Lil Mosey" />
+    <node id="Lil Gnar" />
+    <node id="Cordae" />
+    <node id="YNW Melly" />
+    <node id="Comethazine" />
+    <node id="Webbie" />
+    <node id="Doe Boy" />
+    <node id="Gorilla Zoe" />
+    <node id="EST Gee" />
+    <node id="Rocko" />
+    <node id="Bobby Shmurda" />
+    <node id="Max B" />
+    <node id="Uncle Murda" />
+    <node id="Swizz Beatz" />
+    <node id="Styles P" />
+    <node id="Vado" />
+    <node id="Wiz Khalifa" />
+    <node id="Black Hippy" />
+    <node id="A$AP Twelvyy" />
+    <node id="Smoke DZA" />
+    <node id="Action Bronson" />
+    <node id="Dizzy Wright" />
+    <node id="Hurricane Chris" />
+    <node id="Yung Joc" />
+    <node id="David Banner" />
+    <node id="Dem Franchize Boyz" />
+    <node id="Rich Boy" />
+    <node id="Lil Scrappy" />
+    <node id="Mike Jones" />
+    <node id="Youngbloodz" />
+    <node id="U.S.D.A." />
+    <node id="Crime Mob" />
+    <node id="Gudda Gudda" />
+    <node id="CyHi" />
+    <node id="Cozz" />
+    <node id="REASON" />
+    <node id="Jay Electronica" />
+    <node id="Bas" />
+    <node id="Clipse" />
+    <node id="OJ Da Juiceman" />
+    <node id="Roscoe Dash" />
+    <node id="Trinidad James" />
+    <node id="Shawty Lo" />
+    <node id="Maino" />
+    <node id="Boyz N Da Hood" />
+    <node id="Taylor Bennett" />
+    <node id="Nyck Caution" />
+    <node id="IshDARR" />
+    <node id="Towkio" />
+    <node id="Sylvan LaCue" />
+    <node id="Joey Purp" />
+    <node id="Lute" />
+    <node id="Caleborate" />
+    <node id="Kirk Knight" />
+    <node id="Mick Jenkins" />
+    <edge source="Big Sean" target="Wale" />
+    <edge source="Big Sean" target="Meek Mill" />
+    <edge source="Big Sean" target="J. Cole" />
+    <edge source="J. Cole" target="Kendrick Lamar" />
+    <edge source="Meek Mill" target="French Montana" />
+    <edge source="Meek Mill" target="Kid Ink" />
+    <edge source="Future" target="YG" />
+    <edge source="PARTYNEXTDOOR" target="Majid Jordan" />
+    <edge source="PARTYNEXTDOOR" target="Roy Woods" />
+    <edge source="PARTYNEXTDOOR" target="Bryson Tiller" />
+    <edge source="PARTYNEXTDOOR" target="6LACK" />
+    <edge source="PARTYNEXTDOOR" target="Jeremih" />
+    <edge source="PARTYNEXTDOOR" target="Brent Faiyaz" />
+    <edge source="PARTYNEXTDOOR" target="Tory Lanez" />
+    <edge source="PARTYNEXTDOOR" target="Miguel" />
+    <edge source="PARTYNEXTDOOR" target="DeJ Loaf" />
+    <edge source="Tory Lanez" target="Kid Ink" />
+    <edge source="Tory Lanez" target="Bryson Tiller" />
+    <edge source="Young Thug" target="A$AP Mob" />
+    <edge source="Young Thug" target="Gunna" />
+    <edge source="Young Thug" target="Quavo" />
+    <edge source="Young Thug" target="Migos" />
+    <edge source="Young Thug" target="Don Toliver" />
+    <edge source="Young Thug" target="21 Savage" />
+    <edge source="Young Thug" target="Kodak Black" />
+    <edge source="Young Thug" target="Huncho Jack" />
+    <edge source="Young Thug" target="A$AP Ferg" />
+    <edge source="Young Thug" target="Lil Yachty" />
+    <edge source="Young Thug" target="Rae Sremmurd" />
+    <edge source="Young Thug" target="NAV" />
+    <edge source="Young Thug" target="Desiigner" />
+    <edge source="Rick Ross" target="DJ Drama" />
+    <edge source="Rick Ross" target="Ace Hood" />
+    <edge source="Rick Ross" target="Wale" />
+    <edge source="21 Savage" target="Quavo" />
+    <edge source="21 Savage" target="Gunna" />
+    <edge source="21 Savage" target="Don Toliver" />
+    <edge source="21 Savage" target="Lil Baby" />
+    <edge source="21 Savage" target="Metro Boomin" />
+    <edge source="21 Savage" target="Migos" />
+    <edge source="21 Savage" target="Lil Uzi Vert" />
+    <edge source="Bryson Tiller" target="Jeremih" />
+    <edge source="Bryson Tiller" target="Roy Woods" />
+    <edge source="Bryson Tiller" target="6LACK" />
+    <edge source="Bryson Tiller" target="Jhené Aiko" />
+    <edge source="Bryson Tiller" target="Brent Faiyaz" />
+    <edge source="Gunna" target="Young Nudy" />
+    <edge source="Gunna" target="Don Toliver" />
+    <edge source="Gunna" target="Lil Baby" />
+    <edge source="Gunna" target="Quavo" />
+    <edge source="Gunna" target="Kodak Black" />
+    <edge source="Gunna" target="Roddy Ricch" />
+    <edge source="Gunna" target="Lil Uzi Vert" />
+    <edge source="2 Chainz" target="Juicy J" />
+    <edge source="2 Chainz" target="Waka Flocka Flame" />
+    <edge source="2 Chainz" target="Wale" />
+    <edge source="A$AP Rocky" target="ScHoolboy Q" />
+    <edge source="A$AP Rocky" target="Joey Bada$$" />
+    <edge source="NAV" target="Flipp Dinero" />
+    <edge source="NAV" target="PnB Rock" />
+    <edge source="NAV" target="Quality Control" />
+    <edge source="NAV" target="Rich The Kid" />
+    <edge source="NAV" target="Roddy Ricch" />
+    <edge source="NAV" target="Lil Mosey" />
+    <edge source="NAV" target="Quavo" />
+    <edge source="NAV" target="YNW Melly" />
+    <edge source="NAV" target="Kodak Black" />
+    <edge source="Migos" target="A$AP Ferg" />
+    <edge source="Migos" target="YG" />
+    <edge source="Migos" target="Huncho Jack" />
+    <edge source="Migos" target="Rae Sremmurd" />
+    <edge source="Migos" target="Desiigner" />
+    <edge source="Migos" target="Mike WiLL Made-It" />
+    <edge source="Migos" target="Lil Uzi Vert" />
+    <edge source="French Montana" target="Max B" />
+    <edge source="French Montana" target="Kid Ink" />
+    <edge source="Tyga" target="Kid Ink" />
+    <edge source="ScHoolboy Q" target="Ab-Soul" />
+    <edge source="ScHoolboy Q" target="Vince Staples" />
+    <edge source="ScHoolboy Q" target="Jay Rock" />
+    <edge source="ScHoolboy Q" target="Black Hippy" />
+    <edge source="Young Money" target="Soulja Boy" />
+    <edge source="Young Money" target="Yo Gotti" />
+    <edge source="Young Money" target="Birdman" />
+    <edge source="Young Money" target="Gudda Gudda" />
+    <edge source="Young Money" target="Ace Hood" />
+    <edge source="Jay Rock" target="Ab-Soul" />
+    <edge source="Jay Rock" target="Black Hippy" />
+    <edge source="Jay Rock" target="Dom Kennedy" />
+    <edge source="Jay Rock" target="Nipsey Hussle" />
+    <edge source="Jay Rock" target="Freddie Gibbs" />
+    <edge source="Jay Rock" target="Pusha T" />
+    <edge source="Jay Rock" target="Bas" />
+    <edge source="Waka Flocka Flame" target="Travis Porter" />
+    <edge source="Waka Flocka Flame" target="Soulja Boy" />
+    <edge source="Waka Flocka Flame" target="Juicy J" />
+    <edge source="Waka Flocka Flame" target="Roscoe Dash" />
+    <edge source="Waka Flocka Flame" target="Trinidad James" />
+    <edge source="Ace Hood" target="DJ Drama" />
+    <edge source="VIC MENSA" target="Taylor Bennett" />
+    <edge source="VIC MENSA" target="Cozz" />
+    <edge source="VIC MENSA" target="Towkio" />
+    <edge source="VIC MENSA" target="Joey Purp" />
+    <edge source="VIC MENSA" target="Bas" />
+    <edge source="DJ Drama" target="Yo Gotti" />
+    <edge source="DJ Drama" target="Swizz Beatz" />
+    <edge source="DJ Drama" target="Curren$y" />
+    <edge source="Ty Dolla $ign" target="Kid Ink" />
+    <edge source="Ty Dolla $ign" target="Jeremih" />
+    <edge source="Kid Ink" target="Wiz Khalifa" />
+    <edge source="Kid Ink" target="Jeremih" />
+    <edge source="YG" target="A$AP Ferg" />
+    <edge source="YG" target="Rae Sremmurd" />
+    <edge source="Yo Gotti" target="Rocko" />
+    <edge source="Yo Gotti" target="Gorilla Zoe" />
+    <edge source="Yo Gotti" target="OJ Da Juiceman" />
+    <edge source="Yo Gotti" target="Plies" />
+    <edge source="A$AP Ferg" target="A$AP Mob" />
+    <edge source="A$AP Ferg" target="Desiigner" />
+    <edge source="A$AP Ferg" target="Huncho Jack" />
+    <edge source="A$AP Ferg" target="Mike WiLL Made-It" />
+    <edge source="A$AP Ferg" target="Quality Control" />
+    <edge source="A$AP Ferg" target="Rae Sremmurd" />
+    <edge source="Travis Porter" target="Roscoe Dash" />
+    <edge source="Travis Porter" target="Soulja Boy" />
+    <edge source="Pusha T" target="Freddie Gibbs" />
+    <edge source="Pusha T" target="Clipse" />
+    <edge source="Pusha T" target="CyHi" />
+    <edge source="Pusha T" target="Earl Sweatshirt" />
+    <edge source="Pusha T" target="Vince Staples" />
+    <edge source="Pusha T" target="Lupe Fiasco" />
+    <edge source="Nipsey Hussle" target="Dom Kennedy" />
+    <edge source="Freddie Gibbs" target="Big K.R.I.T." />
+    <edge source="Freddie Gibbs" target="Smoke DZA" />
+    <edge source="Freddie Gibbs" target="Curren$y" />
+    <edge source="Freddie Gibbs" target="Ab-Soul" />
+    <edge source="Freddie Gibbs" target="Boldy James" />
+    <edge source="Freddie Gibbs" target="Danny Brown" />
+    <edge source="Freddie Gibbs" target="Domo Genesis" />
+    <edge source="Freddie Gibbs" target="Earl Sweatshirt" />
+    <edge source="Freddie Gibbs" target="Action Bronson" />
+    <edge source="Freddie Gibbs" target="Vince Staples" />
+    <edge source="Joey Bada$$" target="Flatbush Zombies" />
+    <edge source="Joey Bada$$" target="Vince Staples" />
+    <edge source="Joey Bada$$" target="Chance the Rapper" />
+    <edge source="Joey Bada$$" target="Denzel Curry" />
+    <edge source="Isaiah Rashad" target="Mick Jenkins" />
+    <edge source="Isaiah Rashad" target="Ab-Soul" />
+    <edge source="Isaiah Rashad" target="Vince Staples" />
+    <edge source="Ab-Soul" target="Black Hippy" />
+    <edge source="Ab-Soul" target="Smoke DZA" />
+    <edge source="Ab-Soul" target="Big K.R.I.T." />
+    <edge source="Ab-Soul" target="Dom Kennedy" />
+    <edge source="Ab-Soul" target="Domo Genesis" />
+    <edge source="Ab-Soul" target="Danny Brown" />
+    <edge source="Ab-Soul" target="BJ The Chicago Kid" />
+    <edge source="Ab-Soul" target="Boldy James" />
+    <edge source="Ab-Soul" target="CyHi" />
+    <edge source="Birdman" target="Plies" />
+    <edge source="Fabolous" target="Lloyd Banks" />
+    <edge source="Fabolous" target="Jadakiss" />
+    <edge source="Jim Jones" target="Juelz Santana" />
+    <edge source="Jim Jones" target="Uncle Murda" />
+    <edge source="Jim Jones" target="The Diplomats" />
+    <edge source="Jim Jones" target="Styles P" />
+    <edge source="Jim Jones" target="Max B" />
+    <edge source="Jim Jones" target="Jadakiss" />
+    <edge source="Jim Jones" target="Vado" />
+    <edge source="Jim Jones" target="Swizz Beatz" />
+    <edge source="Jim Jones" target="Maino" />
+    <edge source="Jadakiss" target="Beanie Sigel" />
+    <edge source="Jadakiss" target="Styles P" />
+    <edge source="Jadakiss" target="Juelz Santana" />
+    <edge source="Jadakiss" target="The Diplomats" />
+    <edge source="Jadakiss" target="Swizz Beatz" />
+    <edge source="Jadakiss" target="Lloyd Banks" />
+    <edge source="Jadakiss" target="Max B" />
+    <edge source="Chief Keef" target="Lil Durk" />
+    <edge source="Young Dolph" target="Young Scooter" />
+    <edge source="Kodak Black" target="Roddy Ricch" />
+    <edge source="Kodak Black" target="YNW Melly" />
+    <edge source="Quavo" target="Huncho Jack" />
+    <edge source="Quavo" target="Quality Control" />
+    <edge source="Quavo" target="Roddy Ricch" />
+    <edge source="Quavo" target="Don Toliver" />
+    <edge source="Quavo" target="Lil Baby" />
+    <edge source="Young Nudy" target="UnoTheActivist" />
+    <edge source="Young Nudy" target="D. Savage" />
+    <edge source="Young Nudy" target="Pi’erre Bourne" />
+    <edge source="Young Nudy" target="SahBabii" />
+    <edge source="Young Nudy" target="Lil Keed" />
+    <edge source="Young Nudy" target="Sheck Wes" />
+    <edge source="Majid Jordan" target="Roy Woods" />
+    <edge source="Majid Jordan" target="Yo Trane" />
+    <edge source="Majid Jordan" target="6LACK" />
+    <edge source="Majid Jordan" target="dvsn" />
+    <edge source="Roy Woods" target="Che Ecru" />
+    <edge source="Roy Woods" target="dvsn" />
+    <edge source="Roy Woods" target="6LACK" />
+    <edge source="Roy Woods" target="Jeremih" />
+    <edge source="Jeremih" target="Jacquees" />
+    <edge source="Jeremih" target="Jhené Aiko" />
+    <edge source="PnB Rock" target="Tee Grizzley" />
+    <edge source="PnB Rock" target="Rich The Kid" />
+    <edge source="PnB Rock" target="Quality Control" />
+    <edge source="PnB Rock" target="Roddy Ricch" />
+    <edge source="Brent Faiyaz" target="Miguel" />
+    <edge source="TWENTY88" target="Queen Naija" />
+    <edge source="TWENTY88" target="Ryan Trey" />
+    <edge source="TWENTY88" target="DaniLeigh" />
+    <edge source="Che Ecru" target="Yo Trane" />
+    <edge source="Che Ecru" target="Nbdy" />
+    <edge source="Che Ecru" target="Ryan Trey" />
+    <edge source="Yo Trane" target="Nbdy" />
+    <edge source="Ryan Trey" target="Nbdy" />
+    <edge source="Miguel" target="Jhené Aiko" />
+    <edge source="H.E.R." target="Ella Mai" />
+    <edge source="H.E.R." target="DaniLeigh" />
+    <edge source="Jacquees" target="Eric Bellinger" />
+    <edge source="August Alsina" target="Trey Songz" />
+    <edge source="August Alsina" target="Eric Bellinger" />
+    <edge source="DeJ Loaf" target="K CAMP" />
+    <edge source="Trey Songz" target="Pretty Ricky" />
+    <edge source="Trey Songz" target="Lloyd" />
+    <edge source="Trey Songz" target="The-Dream" />
+    <edge source="A$AP Mob" target="Huncho Jack" />
+    <edge source="A$AP Mob" target="A$AP Twelvyy" />
+    <edge source="A$AP Mob" target="Sheck Wes" />
+    <edge source="A$AP Mob" target="Famous Dex" />
+    <edge source="A$AP Mob" target="Quality Control" />
+    <edge source="Don Toliver" target="Roddy Ricch" />
+    <edge source="Don Toliver" target="Trippie Redd" />
+    <edge source="Famous Dex" target="Quality Control" />
+    <edge source="Famous Dex" target="Yung Bans" />
+    <edge source="Famous Dex" target="YBN Nahmir" />
+    <edge source="Famous Dex" target="Comethazine" />
+    <edge source="Famous Dex" target="Huncho Jack" />
+    <edge source="Famous Dex" target="Rich The Kid" />
+    <edge source="Famous Dex" target="Lil Yachty" />
+    <edge source="Famous Dex" target="SahBabii" />
+    <edge source="Famous Dex" target="88GLAM" />
+    <edge source="Huncho Jack" target="Quality Control" />
+    <edge source="Huncho Jack" target="Desiigner" />
+    <edge source="Huncho Jack" target="Sheck Wes" />
+    <edge source="Huncho Jack" target="Mike WiLL Made-It" />
+    <edge source="Huncho Jack" target="88GLAM" />
+    <edge source="Huncho Jack" target="Rae Sremmurd" />
+    <edge source="Huncho Jack" target="Rich The Kid" />
+    <edge source="Huncho Jack" target="Lil Yachty" />
+    <edge source="Lil Keed" target="88GLAM" />
+    <edge source="Lil Keed" target="Pi’erre Bourne" />
+    <edge source="Lil Yachty" target="Comethazine" />
+    <edge source="Lil Yachty" target="YBN Nahmir" />
+    <edge source="Lil Yachty" target="Trippie Redd" />
+    <edge source="SahBabii" target="D. Savage" />
+    <edge source="SahBabii" target="Yung Bans" />
+    <edge source="SahBabii" target="UnoTheActivist" />
+    <edge source="SahBabii" target="Pi’erre Bourne" />
+    <edge source="SahBabii" target="03 Greedo" />
+    <edge source="SahBabii" target="Sheck Wes" />
+    <edge source="Rae Sremmurd" target="Desiigner" />
+    <edge source="Rae Sremmurd" target="Mike WiLL Made-It" />
+    <edge source="UnoTheActivist" target="Pi’erre Bourne" />
+    <edge source="UnoTheActivist" target="D. Savage" />
+    <edge source="UnoTheActivist" target="Yung Bans" />
+    <edge source="Pi’erre Bourne" target="D. Savage" />
+    <edge source="Pi’erre Bourne" target="Yung Bans" />
+    <edge source="Desiigner" target="Mike WiLL Made-It" />
+    <edge source="Desiigner" target="Quality Control" />
+    <edge source="Desiigner" target="Bobby Shmurda" />
+    <edge source="88GLAM" target="Flipp Dinero" />
+    <edge source="88GLAM" target="Quality Control" />
+    <edge source="88GLAM" target="Sheck Wes" />
+    <edge source="88GLAM" target="Lil Gnar" />
+    <edge source="Juelz Santana" target="Beanie Sigel" />
+    <edge source="Juelz Santana" target="The Diplomats" />
+    <edge source="Juelz Santana" target="Uncle Murda" />
+    <edge source="Juelz Santana" target="Styles P" />
+    <edge source="Juelz Santana" target="Max B" />
+    <edge source="Juelz Santana" target="Lloyd Banks" />
+    <edge source="Bun B" target="Slim Thug" />
+    <edge source="Young Buck" target="Rich Boy" />
+    <edge source="Young Buck" target="Lloyd Banks" />
+    <edge source="The Diplomats" target="Beanie Sigel" />
+    <edge source="The Diplomats" target="Uncle Murda" />
+    <edge source="The Diplomats" target="Max B" />
+    <edge source="The Diplomats" target="Styles P" />
+    <edge source="The Diplomats" target="Vado" />
+    <edge source="Beanie Sigel" target="Styles P" />
+    <edge source="Beanie Sigel" target="Uncle Murda" />
+    <edge source="Slim Thug" target="Mike Jones" />
+    <edge source="Slim Thug" target="Webbie" />
+    <edge source="Curren$y" target="Big K.R.I.T." />
+    <edge source="Curren$y" target="Smoke DZA" />
+    <edge source="Curren$y" target="Dom Kennedy" />
+    <edge source="Curren$y" target="Domo Genesis" />
+    <edge source="Curren$y" target="CyHi" />
+    <edge source="Curren$y" target="Clipse" />
+    <edge source="Curren$y" target="Boldy James" />
+    <edge source="Lloyd Banks" target="Swizz Beatz" />
+    <edge source="Young Dro" target="Rocko" />
+    <edge source="Young Dro" target="Shawty Lo" />
+    <edge source="Young Dro" target="Rich Boy" />
+    <edge source="Young Dro" target="Yung Joc" />
+    <edge source="Young Dro" target="Boyz N Da Hood" />
+    <edge source="Young Dro" target="OJ Da Juiceman" />
+    <edge source="Young Dro" target="U.S.D.A." />
+    <edge source="Young Dro" target="Webbie" />
+    <edge source="Young Dro" target="Lil Scrappy" />
+    <edge source="Young Dro" target="Youngbloodz" />
+    <edge source="Young Dro" target="Hurricane Chris" />
+    <edge source="Young Dro" target="Gorilla Zoe" />
+    <edge source="Young Dro" target="David Banner" />
+    <edge source="Sheck Wes" target="Flipp Dinero" />
+    <edge source="Sheck Wes" target="Comethazine" />
+    <edge source="Trippie Redd" target="Comethazine" />
+    <edge source="Lil Uzi Vert" target="Playboi Carti" />
+    <edge source="Flipp Dinero" target="Cordae" />
+    <edge source="Flipp Dinero" target="YBN Nahmir" />
+    <edge source="Flipp Dinero" target="Lil Gnar" />
+    <edge source="Flipp Dinero" target="Yung Pinch" />
+    <edge source="Flipp Dinero" target="Lil Mosey" />
+    <edge source="Flipp Dinero" target="Comethazine" />
+    <edge source="Flipp Dinero" target="Rich The Kid" />
+    <edge source="DaniLeigh" target="Ella Mai" />
+    <edge source="DaniLeigh" target="Queen Naija" />
+    <edge source="DaniLeigh" target="Sevyn Streeter" />
+    <edge source="Queen Naija" target="Ella Mai" />
+    <edge source="Queen Naija" target="Eric Bellinger" />
+    <edge source="D. Savage" target="Yung Bans" />
+    <edge source="Roddy Ricch" target="YNW Melly" />
+    <edge source="Yung Bans" target="Lil Gnar" />
+    <edge source="Yung Bans" target="03 Greedo" />
+    <edge source="Big K.R.I.T." target="Smoke DZA" />
+    <edge source="Big K.R.I.T." target="CyHi" />
+    <edge source="Big K.R.I.T." target="Clipse" />
+    <edge source="Big K.R.I.T." target="Dom Kennedy" />
+    <edge source="Big K.R.I.T." target="BJ The Chicago Kid" />
+    <edge source="Rich Homie Quan" target="Young Scooter" />
+    <edge source="Rich Homie Quan" target="K CAMP" />
+    <edge source="Rich Homie Quan" target="O.T. Genasis" />
+    <edge source="Young Scooter" target="K CAMP" />
+    <edge source="Mike WiLL Made-It" target="Trinidad James" />
+    <edge source="K CAMP" target="O.T. Genasis" />
+    <edge source="O.T. Genasis" target="Bobby Shmurda" />
+    <edge source="Earl Sweatshirt" target="Domo Genesis" />
+    <edge source="Earl Sweatshirt" target="Vince Staples" />
+    <edge source="Earl Sweatshirt" target="Danny Brown" />
+    <edge source="Earl Sweatshirt" target="Action Bronson" />
+    <edge source="Earl Sweatshirt" target="Boldy James" />
+    <edge source="Vince Staples" target="Domo Genesis" />
+    <edge source="Vince Staples" target="Flatbush Zombies" />
+    <edge source="Vince Staples" target="Danny Brown" />
+    <edge source="Vince Staples" target="Denzel Curry" />
+    <edge source="Vince Staples" target="Boldy James" />
+    <edge source="Vince Staples" target="Action Bronson" />
+    <edge source="Flatbush Zombies" target="Dizzy Wright" />
+    <edge source="Flatbush Zombies" target="Kirk Knight" />
+    <edge source="Flatbush Zombies" target="A$AP Twelvyy" />
+    <edge source="Flatbush Zombies" target="Black Hippy" />
+    <edge source="Flatbush Zombies" target="Domo Genesis" />
+    <edge source="Flatbush Zombies" target="Action Bronson" />
+    <edge source="Danny Brown" target="Domo Genesis" />
+    <edge source="Danny Brown" target="Action Bronson" />
+    <edge source="Danny Brown" target="Boldy James" />
+    <edge source="Domo Genesis" target="Boldy James" />
+    <edge source="Domo Genesis" target="Action Bronson" />
+    <edge source="Boldy James" target="Action Bronson" />
+    <edge source="Dom Kennedy" target="Smoke DZA" />
+    <edge source="Dom Kennedy" target="CyHi" />
+    <edge source="Dom Kennedy" target="BJ The Chicago Kid" />
+    <edge source="Dom Kennedy" target="Dizzy Wright" />
+    <edge source="The-Dream" target="Lloyd" />
+    <edge source="Lloyd" target="Pretty Ricky" />
+    <edge source="Sevyn Streeter" target="Teyana Taylor" />
+    <edge source="YBN Nahmir" target="Comethazine" />
+    <edge source="YBN Nahmir" target="Lil Gnar" />
+    <edge source="YBN Nahmir" target="Cordae" />
+    <edge source="YBN Nahmir" target="Tee Grizzley" />
+    <edge source="YBN Nahmir" target="Quality Control" />
+    <edge source="YBN Nahmir" target="Rich The Kid" />
+    <edge source="Quality Control" target="Rich The Kid" />
+    <edge source="Quality Control" target="Tee Grizzley" />
+    <edge source="Rich The Kid" target="Tee Grizzley" />
+    <edge source="Yung Pinch" target="Lil Gnar" />
+    <edge source="Lil Mosey" target="YNW Melly" />
+    <edge source="Lil Gnar" target="Comethazine" />
+    <edge source="Webbie" target="Rocko" />
+    <edge source="Webbie" target="U.S.D.A." />
+    <edge source="Webbie" target="OJ Da Juiceman" />
+    <edge source="Webbie" target="Boyz N Da Hood" />
+    <edge source="Webbie" target="Hurricane Chris" />
+    <edge source="Webbie" target="Shawty Lo" />
+    <edge source="Webbie" target="Gorilla Zoe" />
+    <edge source="Doe Boy" target="EST Gee" />
+    <edge source="Gorilla Zoe" target="Yung Joc" />
+    <edge source="Gorilla Zoe" target="Boyz N Da Hood" />
+    <edge source="Gorilla Zoe" target="Lil Scrappy" />
+    <edge source="Gorilla Zoe" target="Mike Jones" />
+    <edge source="Gorilla Zoe" target="Rocko" />
+    <edge source="Gorilla Zoe" target="Crime Mob" />
+    <edge source="Gorilla Zoe" target="Hurricane Chris" />
+    <edge source="Gorilla Zoe" target="David Banner" />
+    <edge source="Gorilla Zoe" target="Shawty Lo" />
+    <edge source="Gorilla Zoe" target="OJ Da Juiceman" />
+    <edge source="Rocko" target="Shawty Lo" />
+    <edge source="Rocko" target="U.S.D.A." />
+    <edge source="Rocko" target="OJ Da Juiceman" />
+    <edge source="Rocko" target="Boyz N Da Hood" />
+    <edge source="Rocko" target="Rich Boy" />
+    <edge source="Rocko" target="Yung Joc" />
+    <edge source="Max B" target="Uncle Murda" />
+    <edge source="Max B" target="Vado" />
+    <edge source="Uncle Murda" target="Styles P" />
+    <edge source="Uncle Murda" target="Vado" />
+    <edge source="Uncle Murda" target="Maino" />
+    <edge source="A$AP Twelvyy" target="Nyck Caution" />
+    <edge source="A$AP Twelvyy" target="Kirk Knight" />
+    <edge source="A$AP Twelvyy" target="Mick Jenkins" />
+    <edge source="A$AP Twelvyy" target="Cozz" />
+    <edge source="Smoke DZA" target="CyHi" />
+    <edge source="Hurricane Chris" target="Dem Franchize Boyz" />
+    <edge source="Hurricane Chris" target="Yung Joc" />
+    <edge source="Hurricane Chris" target="Crime Mob" />
+    <edge source="Hurricane Chris" target="Lil Scrappy" />
+    <edge source="Hurricane Chris" target="Youngbloodz" />
+    <edge source="Hurricane Chris" target="Rich Boy" />
+    <edge source="Hurricane Chris" target="David Banner" />
+    <edge source="Yung Joc" target="Dem Franchize Boyz" />
+    <edge source="Yung Joc" target="Lil Scrappy" />
+    <edge source="Yung Joc" target="Boyz N Da Hood" />
+    <edge source="Yung Joc" target="Crime Mob" />
+    <edge source="Yung Joc" target="Youngbloodz" />
+    <edge source="Yung Joc" target="Rich Boy" />
+    <edge source="Yung Joc" target="David Banner" />
+    <edge source="Yung Joc" target="Mike Jones" />
+    <edge source="Yung Joc" target="U.S.D.A." />
+    <edge source="Yung Joc" target="Shawty Lo" />
+    <edge source="David Banner" target="Youngbloodz" />
+    <edge source="David Banner" target="Dem Franchize Boyz" />
+    <edge source="David Banner" target="Mike Jones" />
+    <edge source="David Banner" target="Lil Scrappy" />
+    <edge source="David Banner" target="Boyz N Da Hood" />
+    <edge source="David Banner" target="Rich Boy" />
+    <edge source="David Banner" target="Crime Mob" />
+    <edge source="Dem Franchize Boyz" target="Youngbloodz" />
+    <edge source="Dem Franchize Boyz" target="Lil Scrappy" />
+    <edge source="Dem Franchize Boyz" target="Crime Mob" />
+    <edge source="Dem Franchize Boyz" target="Boyz N Da Hood" />
+    <edge source="Dem Franchize Boyz" target="Mike Jones" />
+    <edge source="Rich Boy" target="Boyz N Da Hood" />
+    <edge source="Rich Boy" target="U.S.D.A." />
+    <edge source="Rich Boy" target="Lil Scrappy" />
+    <edge source="Rich Boy" target="Shawty Lo" />
+    <edge source="Rich Boy" target="Youngbloodz" />
+    <edge source="Lil Scrappy" target="Youngbloodz" />
+    <edge source="Lil Scrappy" target="Boyz N Da Hood" />
+    <edge source="Lil Scrappy" target="Crime Mob" />
+    <edge source="Lil Scrappy" target="U.S.D.A." />
+    <edge source="Lil Scrappy" target="Mike Jones" />
+    <edge source="Lil Scrappy" target="Shawty Lo" />
+    <edge source="Youngbloodz" target="Crime Mob" />
+    <edge source="Youngbloodz" target="Boyz N Da Hood" />
+    <edge source="U.S.D.A." target="Boyz N Da Hood" />
+    <edge source="U.S.D.A." target="Shawty Lo" />
+    <edge source="U.S.D.A." target="OJ Da Juiceman" />
+    <edge source="U.S.D.A." target="Crime Mob" />
+    <edge source="Crime Mob" target="Boyz N Da Hood" />
+    <edge source="Cozz" target="Lute" />
+    <edge source="Cozz" target="Caleborate" />
+    <edge source="Cozz" target="Bas" />
+    <edge source="REASON" target="Bas" />
+    <edge source="REASON" target="Lute" />
+    <edge source="Jay Electronica" target="Clipse" />
+    <edge source="OJ Da Juiceman" target="Shawty Lo" />
+    <edge source="Shawty Lo" target="Boyz N Da Hood" />
+    <edge source="Taylor Bennett" target="Towkio" />
+    <edge source="Nyck Caution" target="Kirk Knight" />
+    <edge source="Nyck Caution" target="Mick Jenkins" />
+    <edge source="IshDARR" target="Caleborate" />
+    <edge source="IshDARR" target="Sylvan LaCue" />
+    <edge source="Towkio" target="Joey Purp" />
+    <edge source="Sylvan LaCue" target="Caleborate" />
+    <edge source="Sylvan LaCue" target="Lute" />
+    <edge source="Sylvan LaCue" target="Mick Jenkins" />
+    <edge source="Joey Purp" target="Mick Jenkins" />
+    <edge source="Lute" target="Caleborate" />
+    <edge source="Lute" target="Kirk Knight" />
+    <edge source="Lute" target="Mick Jenkins" />
+    <edge source="Kirk Knight" target="Mick Jenkins" />
+  </graph>
+</graphml>
